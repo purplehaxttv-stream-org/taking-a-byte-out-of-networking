@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.Python
+build/
+dist/
+
+# venv
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Not-yet-aired classes - safety net against an accidental `git add -A` leaking
+# spoiler content early. Remove each line right after that class's stream airs,
+# then add/commit/tag its release.
+Class 2/
+Class 3/
+Class 4/
+Class 5/
+Class 6/
+Class 7/
